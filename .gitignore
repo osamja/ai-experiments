@@ -132,3 +132,4 @@ dmypy.json
 # MY CUSTOM IGNORED STUFF
 data/
 .DS_Store
+squeezenet-feature-extract-on-mnist-submission.csv
